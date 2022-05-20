@@ -1,0 +1,19 @@
+{
+  "name": "sava-gavric/router",
+  "description": "Simple web application router.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sava-gavric",
+      "email": "sava.gavric@logeecom.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Logeecom\\Router\\": ""
+    }
+  },
+  "require": {
+  }
+}
